@@ -1,5 +1,5 @@
 from typing import TypeAlias
 
-NumberText : TypeAlias = str
+DecimalString : TypeAlias = str
 
 EnglishNumber : TypeAlias = str
