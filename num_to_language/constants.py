@@ -35,4 +35,6 @@ TENS = {
 HUNDRED = "hundred"
 THOUSAND = "thousand"
 MILLION = "million"
-BILLION = "billion"
+BILLION = "billion" 
+
+SCALES = ("", THOUSAND, MILLION, BILLION)
