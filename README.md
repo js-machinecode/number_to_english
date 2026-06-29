@@ -41,7 +41,7 @@ num_to_language/
 ## Running
 
 ```bash
-python -m num_to_language.main
+python -m num_to_language
 ```
 
 ## Running Tests
