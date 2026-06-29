@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "num_to_language"
+version = "0.1.0"
+description = "Convert decimal numbers into English words."
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+    { name = "Jose Soto" }
+]
+license = { text = "MIT" }
+
+keywords = [
+    "python",
+    "numbers",
+    "language",
+    "converter"
+]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
